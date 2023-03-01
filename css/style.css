@@ -1,0 +1,132 @@
+body{
+    background-color: #EDF5FF;
+}
+.feature-item {
+    background-color: #0c71eb;
+}
+.feature-item:hover {
+    margin-top: -15px;
+}
+.feature-item{
+    transition: .5s;
+}
+.feature-container{
+    margin-top: 00px;
+}
+#aboutid{
+    margin-top: 120px;
+
+}
+
+.aboutr{
+    width: 40px;
+    height: 40px;
+    border-radius: 100%;
+}
+ .aboutr{
+    position: relative;
+    top: 10px;;
+}
+.aboutaa{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+.aboutb{
+    margin-bottom: 50px;
+}
+.aboutb:hover{
+    box-shadow: 0 0 5px rgb(0, 0, 0);
+}
+.Overviewxxl{
+    margin-top: 100px;
+}
+.overspan{
+    width: 30px;
+    height: 2px;
+}
+.Advancedfeatures{
+    background-color: #ffffff;
+    padding-bottom: 50px;
+}
+.afeature-item{
+ background-color: rgb(255, 255, 255);
+ color: black;
+ box-shadow: 0 0 45px rgba(0, 0, 0, .08);
+}
+.afeature-item:hover{
+    background-color:#0d6efd;
+    color: white;
+    transition: .5s;
+}
+#facts{
+    /* margin-top: 170px; */
+    /* margin-bottom: 170px; */
+}
+.processr{
+    width: 40px;
+    height: 40px;
+    border-radius: 100%;
+}
+.processa{
+    margin-top: 12px;
+}
+#processc{
+    padding: 240px 0px!important;
+}
+.price-item {
+    box-shadow: 0 0 45px rgba(0, 0, 0, .08);
+    transition: .5s;
+}
+
+.price-item:hover {
+    margin-top: -10px;
+}
+.pricebtn:hover{
+    box-shadow: 0 0 3px rgb(0, 0, 0);
+ }
+
+.contact-item{
+    width: 40px;
+    height: 40px;
+    border-radius: 100%;
+}
+.ci{
+    margin-top: 12px;
+    margin-left: 12px;
+}
+.cil{
+    margin-top: 12px;
+    margin-left: 14px;
+}
+#contactid{
+    margin-top: 50px;
+}
+.sendbtn:hover{
+    box-shadow: 0 0 3px rgb(0, 0, 0);
+}
+.footerbtn{
+    width: 40px;
+    height: 40px;
+    border-radius: 100%;
+}
+.linka:hover{
+    color: #ffffff;
+    font-size: 16px;
+    transition: 0.5s;
+    letter-spacing: .7px;
+}
+.linka{
+    display: block;
+    margin-bottom:10px;
+    padding: 0;
+    text-align: left;
+    color: #858585;
+}
+.linka::before{
+    position: relative;
+    content: "\f105";
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    margin-right: 10px;
+}
